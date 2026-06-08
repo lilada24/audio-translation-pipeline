@@ -1,0 +1,6 @@
+openai-whisper
+edge-tts
+gradio
+requests
+pydantic-settings
+aiohttp
