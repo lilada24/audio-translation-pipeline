@@ -102,3 +102,6 @@ SERVER_PORT=7860
 - 首次运行 Whisper 模型会下载模型权重，可能需要一些时间。
 - 如果您在 Windows 上运行，确保已启用 `venv\Scripts\Activate.ps1`。
 - 输出音频类型为 `MP3`。
+
+##视频演示链接
+https://pan.quark.cn/s/47182d2121b7
